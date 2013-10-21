@@ -1,4 +1,6 @@
 # Shipyard
+https://www.codeship.io/projects/84a0c470-0e1f-0131-31f4-02bf27faac31/status
+
 Shipyard is a web UI for http://docker.io
 
 # Help
